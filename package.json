@@ -1,0 +1,10 @@
+{
+  "name": "invite-gate",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "QR invitations with single-use check-in, on Netlify",
+  "dependencies": {
+    "@netlify/blobs": "^8.2.0"
+  }
+}
